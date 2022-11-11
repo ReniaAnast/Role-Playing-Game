@@ -3,7 +3,7 @@
 ### First and Last Name: Αναστασάκη Ειρήνη 
 ### University Registration Number: dpsd19004
 ### GitHub Personal Profile: https://github.com/ReniaAnast
-### Digital & Serious Games Personal Repository: reniaanast.github.io/Role-Playing-Game/
+### Digital & Serious Games Personal Repository: https://github.com/ReniaAnast/Role-Playing-Game
 
 # Introduction
 
@@ -15,7 +15,9 @@ test
 # 1st Deliverable
 
 Επέλεξα τον χαρακτήρα μου τον οποίο ονόμασα Idle. Την τοποθέτησα στην main camera, δηλαδή στο πλαίσιο του παιχνιδιού.
-![Screenshot (4)](https://user-images.githubusercontent.com/101414210/201415649-7fc332aa-aebb-4dc3-85f0-8657abfdeee2.png)
+
+![Idle (1)](https://user-images.githubusercontent.com/101414210/201417441-efa28945-cfc5-4746-b35e-03a532a424d3.png)
+
 
 Εφτιαξα ένα script το οποίο το οποίο περιείχε τις κινήσεις του παίκτη μου.
 
