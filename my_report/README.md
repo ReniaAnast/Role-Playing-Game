@@ -47,16 +47,15 @@ World Interaction - Blocking Movement
 
  World Interactions - Collectibles
  
-Στο επόμενο βήμα, πρόσθεσα ένα αντικείμενο σε μορφή παγωτού και του προσέθεσα τον κώδικα HealthCollectible. 
+Στο επόμενο βήμα, πρόσθεσα ένα αντικείμενο σε μορφή παγωτού και του προσέθεσα τον κώδικα HealthCollectible.
 
 ![HealthCollectible](https://user-images.githubusercontent.com/101414210/207149601-b58c5684-1c22-45ec-8cd9-ce92ea03c687.png)
 
-Παρόλα αυτά, ενδέχεται να το καταργήσω καθώς στο σενάριο του παιχνιδιού μου δε θα χρειαστεί.
+(Παρόλα αυτά, ενδέχεται να το καταργήσω καθώς στο σενάριο του παιχνιδιού μου δε θα χρειαστεί.)
 
 World Interactions - Damage Zones and Enemies
 
-Για damage zone επέλεξα να χάνει ζωή στην κεντρική 'λίμνη'. Ενώ υπάρχει το script και λειτουργεί κανονικά, δεν  έχω ενεργοποιήσει το 'is trigger' στο συγκεκριμένο αντικείμενο γιατί ακόμα δεν είμαι σίγουρη αν θα υλοποιήσω αυτό το βήμα στο σενάριο του παιχνιδιού μου. 
-
+Για damage zone επέλεξα να χάνει ζωή στην κεντρική 'λίμνη'. 
 ![DameZone](https://user-images.githubusercontent.com/101414210/207157403-de9282af-08ff-446b-ad7f-a613db93a9d4.png)
 
 Sprite Animation
