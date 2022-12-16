@@ -97,7 +97,7 @@ World Interactions - Projectile
 ![ZombieRight_Front_2](https://user-images.githubusercontent.com/101414210/207162548-ce15e528-2e10-4e8a-a2d4-669b5d355596.png)
 ![Back__Right_2](https://user-images.githubusercontent.com/101414210/207162560-c5298334-5e61-46ef-9cca-f9328bb08268.png)
 
-Σκοπός μου είναι να βάλω timer ώστε αντί για μπάρα ζωής ώστε να χρονομετρά σε μορφή ζόμπι και αν δεν καταφέρει να κάνει συγκεκριμένα tasks να γίνεται Game Over.
+Σκοπός μου είναι να βάλω timer ώστε αντί για μπάρα ζωής να χρονομετρά σε μορφή ζόμπι και αν δεν καταφέρει να κάνει συγκεκριμένα tasks να γίνεται Game Over.
 
 
 # 3rd Deliverable 
