@@ -47,16 +47,15 @@ World Interaction - Blocking Movement
 
  World Interactions - Collectibles
  
-Στο επόμενο βήμα, πρόσθεσα ένα αντικείμενο σε μορφή παγωτού και του προσέθεσα τον κώδικα HealthCollectible. 
+Στο επόμενο βήμα, πρόσθεσα ένα αντικείμενο σε μορφή παγωτού και του προσέθεσα τον κώδικα HealthCollectible.
 
 ![HealthCollectible](https://user-images.githubusercontent.com/101414210/207149601-b58c5684-1c22-45ec-8cd9-ce92ea03c687.png)
 
-Παρόλα αυτά, ενδέχεται να το καταργήσω καθώς στο σενάριο του παιχνιδιού μου δε θα χρειαστεί.
+(Παρόλα αυτά, ενδέχεται να το καταργήσω καθώς στο σενάριο του παιχνιδιού μου δε θα χρειαστεί.)
 
 World Interactions - Damage Zones and Enemies
 
-Για damage zone επέλεξα να χάνει ζωή στην κεντρική 'λίμνη'. Ενώ υπάρχει το script και λειτουργεί κανονικά, δεν  έχω ενεργοποιήσει το 'is trigger' στο συγκεκριμένο αντικείμενο γιατί ακόμα δεν είμαι σίγουρη αν θα υλοποιήσω αυτό το βήμα στο σενάριο του παιχνιδιού μου. 
-
+Για damage zone επέλεξα να χάνει ζωή στην κεντρική 'λίμνη'. 
 ![DameZone](https://user-images.githubusercontent.com/101414210/207157403-de9282af-08ff-446b-ad7f-a613db93a9d4.png)
 
 Sprite Animation
@@ -101,6 +100,45 @@ World Interactions - Projectile
 
 
 # 3rd Deliverable 
+
+ Visual Styling - Particles
+ 
+ Για το τρίτο παραδοτέο προσέθεσα Particle ως πυροτεχνήματα δεξιά και αριστερά από το τσίρκο όπως φαίνεται παρακάτω στην εικόνα.
+ 
+ ![Particle](https://user-images.githubusercontent.com/101414210/212232163-6caff0f2-a792-49a0-a998-c35af7c1b737.png)
+
+ Visual Styling - User Interface - Head-Up Display
+ 
+ Για το UI προσέθεσα σκορ στο οποίο θα μετράει πόσα 'brains' συλλέγει κάθε φορά η Idle.
+ 
+ ![Interface](https://user-images.githubusercontent.com/101414210/212232417-9804ee91-3e30-4b97-b063-cecab3840d26.png)
+
+ World Interactions - Dialog Raycast
+
+ Στο συγκεκριμένο βήμα, προσέθεσα dialog Box πάνω από ένα σπιτάκι στο οποίο όταν πηγαίνει κοντά ο παίκτης και πατάει το key X θα του εμφανίζεται στο κάτω μέρος της οθόνης μία περιγραφή/διάλογος για το τι πρέπει να κάνει ο χρήστης μετά.
+ 
+ ![dialog](https://user-images.githubusercontent.com/101414210/212232747-43cdb375-8493-4973-a948-d8d3c60d2bae.png)
+
+Επιπλέον δημιούργησα 2 portals, δηλαδή επέλεξα 2 κτήρια στα οποία όταν ο χρήστης πηγαίνει κοντά και πατάει το key T θα τηλεμεταφέρεται από το ένα σημείο της πίστας στο άλλο.
+
+![Teleport](https://user-images.githubusercontent.com/101414210/212233710-21a37e38-cb07-4c9a-a645-d1d5493349db.png)
+
+
+ Audio.
+ 
+ Στη συνέχεια, βρήκα συγκεκριμένους ήχους από το ίντερνετ τους οποίους τροποποίησα σε mp3 για τους προσαρμόσω στο παιχνίδι μου. Μέσω του audio sourse σε αντικείμενα, δημιούργησα 3D ήχο ούτως ώστε ο χρήστης να ακούει τον ήχο δεξιά και αριστερά, ανάλογα την θέση του μέσα στην πίστα. Σε κάθε πίστα αντιστοιχεί διαφορετικός ήχος.
+ 
+ ![Audio](https://user-images.githubusercontent.com/101414210/212233114-0771fa22-8f62-4b20-9a88-350b96c6c501.png)
+
+Τέλος, δημιούργησα μία νέα σκηνή στην οποία έφτιαξα το Menu μου, το οποίο απαρτίζεται από το background, την φράση εκκίνησης, το κουμπί start, το κουμπί info (βλ. στο screenshot) και δύο κουμπιά ακόμα τα οποία αντιπροσωπεύουν τα levels. 
+
+![Menu](https://user-images.githubusercontent.com/101414210/212233353-a7dc6d38-e4f2-4867-8ba9-510dd26428d3.png)
+
+![info](https://user-images.githubusercontent.com/101414210/212233564-0ee480d4-14f5-4110-9308-bc00ca629b92.png)
+
+Επιπροσθέτως, δημιούργησα μία νέα σκηνή στην οποία υπάρχει ενδεικτικά το Level 2, στο οποίο θα υπάρχει ο κακός και η φίλη της πρωταγωνίστριας την οποία προσπαθεί να σώσει. Σε αυτό το level, η Idle δε θα μπορούσε να κουνηθεί αλλά θα είχε projectile και σκοπός ήταν να πετύχει έστω και μία φορά τον enemy ενώ εκείνος κινείται πολύ γρήγορα πάνω - κάτω.
+
+![Level 2](https://user-images.githubusercontent.com/101414210/212234197-1dcc063c-ae9f-4255-aa22-ebea699cf77e.png)
 
 
 # Conclusions
