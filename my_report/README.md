@@ -117,6 +117,9 @@ World Interactions - Projectile
  Στο συγκεκριμένο βήμα, προσέθεσα dialog Box πάνω από ένα σπιτάκι στο οποίο όταν πηγαίνει κοντά ο παίκτης και πατάει το key X θα του εμφανίζεται στο κάτω μέρος της οθόνης μία περιγραφή/διάλογος για το τι πρέπει να κάνει ο χρήστης μετά.
  
  ![dialog](https://user-images.githubusercontent.com/101414210/212232747-43cdb375-8493-4973-a948-d8d3c60d2bae.png)
+ 
+ ![Screenshot (6)](https://user-images.githubusercontent.com/101414210/212502405-afd5f1be-4d68-400a-92d7-3be90a887e97.png)
+
 
 Επιπλέον δημιούργησα 2 portals, δηλαδή επέλεξα 2 κτήρια στα οποία όταν ο χρήστης πηγαίνει κοντά και πατάει το key T θα τηλεμεταφέρεται από το ένα σημείο της πίστας στο άλλο.
 
@@ -131,7 +134,7 @@ World Interactions - Projectile
 
 Τέλος, δημιούργησα μία νέα σκηνή στην οποία έφτιαξα το Menu μου, το οποίο απαρτίζεται από το background, την φράση εκκίνησης, το κουμπί start, το κουμπί info (βλ. στο screenshot) και δύο κουμπιά ακόμα τα οποία αντιπροσωπεύουν τα levels. 
 
-![Menu](https://user-images.githubusercontent.com/101414210/212233353-a7dc6d38-e4f2-4867-8ba9-510dd26428d3.png)
+![Screenshot (5)](https://user-images.githubusercontent.com/101414210/212502390-2bee8770-ffe5-440e-a4ac-62fe7517c0e6.png)
 
 ![info](https://user-images.githubusercontent.com/101414210/212233564-0ee480d4-14f5-4110-9308-bc00ca629b92.png)
 
@@ -141,7 +144,7 @@ World Interactions - Projectile
 
 ![Screenshot (4)](https://user-images.githubusercontent.com/101414210/212502171-56171c3f-eb4e-4bb2-9dfd-49f75524aa7c.png)
 
-
+Επίσης! Άλλαξα τα Collectibles σες 'brains' αντί για παγωτό και τα συλλέγει μόνο σε μορφή ζόμπι.
 
 
 # Conclusions
